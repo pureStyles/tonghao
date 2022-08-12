@@ -10,5 +10,8 @@
     "MPA"
   ],
   "author": "siyuan.wen",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
 }
