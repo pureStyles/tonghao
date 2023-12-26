@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T05:21:50.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="IEFTid4ScKFZxr_k73nd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T05:28:47.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MaPliazyt-SlQhmude27" version="22.1.11" type="github">
   <diagram name="第 1 页" id="2b3dwGtqXEgZxOAXOe_Q">
-    <mxGraphModel>
+    <mxGraphModel dx="832" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g358pjEMEVZy6TWcqPhA-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dependency Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ module&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ weak&lt;br&gt;+ optional&lt;br&gt;+ loc&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getResourceIdentifier(): null&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getReference(): null | DependencyReference&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getExports(): null&lt;br&gt;+ getWarnings(): null&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getErros(): null&lt;br&gt;+ disconnect(): undefined&lt;br&gt;+ static Compare()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="180" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
